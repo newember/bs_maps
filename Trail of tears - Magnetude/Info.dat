@@ -47,6 +47,22 @@
           }
         },
         {
+          "_difficulty" : "Normal",
+          "_difficultyRank" : 3,
+          "_beatmapFilename" : "NormalStandard.dat",
+          "_noteJumpMovementSpeed" : 12,
+          "_noteJumpStartBeatOffset" : 0,
+          "_customData" : {
+            "_editorOffset" : 0,
+            "_editorOldOffset" : 0,
+            "_envColorRight" : {"r":1,"g":1,"b":1},
+            "_envColorLeft" : {"r":1,"g":0.608,"b":0},
+            "_suggestions" : [
+              "Chroma"
+            ]
+          }
+        },
+        {
           "_difficulty" : "ExpertPlus",
           "_difficultyRank" : 9,
           "_beatmapFilename" : "ExpertPlusStandard.dat",
