@@ -20,7 +20,7 @@
       },
       "_lastEditedBy" : "ChroMapper",
       "ChroMapper" : {
-        "version" : "0.7.394"
+        "version" : "0.7.400"
       }
     }
   },
@@ -38,10 +38,13 @@
             "_editorOffset" : 0,
             "_editorOldOffset" : 0,
             "_colorRight" : {"r":0.212,"g":0.212,"b":0.212},
-            "_envColorLeft" : {"r":0.653,"g":0,"b":1},
-            "_envColorRight" : {"r":0,"g":0.474,"b":1},
+            "_envColorLeft" : {"r":0.726,"g":0,"b":1},
+            "_envColorRight" : {"r":0,"g":0.424,"b":1},
             "_envColorLeftBoost" : {"r":1,"g":0,"b":0},
-            "_envColorRightBoost" : {"r":1,"g":0.413,"b":0}
+            "_envColorRightBoost" : {"r":1,"g":0.374,"b":0},
+            "_suggestions" : [
+              "Chroma"
+            ]
           }
         }
       ]
