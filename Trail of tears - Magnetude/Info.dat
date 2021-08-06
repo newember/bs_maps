@@ -20,7 +20,7 @@
       },
       "_lastEditedBy" : "ChroMapper",
       "ChroMapper" : {
-        "version" : "0.7.394"
+        "version" : "0.7.0"
       }
     }
   },
@@ -41,7 +41,7 @@
             "_colorLeft" : {"r":0.35,"g":0.213,"b":0},
             "_envColorLeft" : {"r":1,"g":0.608,"b":0},
             "_envColorRight" : {"r":1,"g":1,"b":1},
-            "_suggestions" : [
+            "_requirements" : [
               "Chroma"
             ]
           }
@@ -53,12 +53,12 @@
           "_noteJumpMovementSpeed" : 16,
           "_noteJumpStartBeatOffset" : 0,
           "_customData" : {
-            "_suggestions" : [
-              "Chroma"
-            ],
             "_colorLeft" : {"r":1,"g":0.914,"b":0.349},
             "_colorRight" : {"r":1,"g":1,"b":1},
-            "_envColorLeft" : {"r":1,"g":0.608,"b":0}
+            "_envColorLeft" : {"r":1,"g":0.608,"b":0},
+            "_requirements" : [
+              "Chroma"
+            ]
           }
         },
         {
