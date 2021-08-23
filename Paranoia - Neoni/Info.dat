@@ -1,1 +1,53 @@
-{"_version":"2.0.0","_songName":"Paranoia","_songSubName":"","_songAuthorName":"Neoni","_levelAuthorName":"Newember","_beatsPerMinute":120,"_shuffle":0,"_shufflePeriod":0.5,"_previewStartTime":18.399999618530273,"_previewDuration":16,"_songFilename":"neoni-paranoia.ogg","_coverImageFilename":"paranoia.jpg","_environmentName":"PanicEnvironment","_songTimeOffset":0,"_customData":{"_contributors":[],"_editors":{"MMA2":{"version":"4.8.0"},"_lastEditedBy":"MMA2"}},"_difficultyBeatmapSets":[{"_beatmapCharacteristicName":"Standard","_difficultyBeatmaps":[{"_difficulty":"ExpertPlus","_difficultyRank":9,"_beatmapFilename":"ExpertPlusStandard.dat","_noteJumpMovementSpeed":16,"_noteJumpStartBeatOffset":0,"_customData":{"_editorOffset":0,"_editorOldOffset":0,"_warnings":[],"_information":[],"_suggestions":[],"_requirements":[],"_colorLeft":{"r":0.92896586656570435,"g":0.55025774240493774,"b":0.24070475995540619},"_colorRight":{"r":0,"g":0.92896586656570435,"b":0.73973214626312256},"_envColorLeft":{"r":0.88471251726150513,"g":0.88471251726150513,"b":0.88471251726150513},"_envColorRight":{"r":0,"g":0.63529413938522339,"b":0.5058823823928833},"_envColorLeftBoost":{"r":0.8072693943977356,"g":0.0065630152821540833,"b":0},"_envColorRightBoost":{"r":0.76854771375656128,"g":0.65552526712417603,"b":0.28416568040847778},"_obstacleColor":{"r":0.76370525360107422,"g":0.37527531385421753,"b":1}}}]}]}
+{
+  "_version" : "2.0.0",
+  "_songName" : "Paranoia",
+  "_songSubName" : "",
+  "_songAuthorName" : "Neoni",
+  "_levelAuthorName" : "Newember",
+  "_beatsPerMinute" : 120,
+  "_shuffle" : 0,
+  "_shufflePeriod" : 0.5,
+  "_previewStartTime" : 18.4,
+  "_previewDuration" : 16,
+  "_songFilename" : "neoni-paranoia.ogg",
+  "_coverImageFilename" : "paranoia.jpg",
+  "_environmentName" : "PanicEnvironment",
+  "_songTimeOffset" : 0,
+  "_customData" : {
+    "_editors" : {
+      "MMA2" : {
+        "version" : "4.8.0"
+      },
+      "_lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.7.386"
+      }
+    }
+  },
+  "_difficultyBeatmapSets" : [
+    {
+      "_beatmapCharacteristicName" : "Standard",
+      "_difficultyBeatmaps" : [
+        {
+          "_difficulty" : "ExpertPlus",
+          "_difficultyRank" : 9,
+          "_beatmapFilename" : "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed" : 16,
+          "_noteJumpStartBeatOffset" : 0,
+          "_customData" : {
+            "_editorOffset" : 0,
+            "_editorOldOffset" : 0,
+            "_colorLeft" : {"r":0.929,"g":0.55,"b":0.241},
+            "_colorRight" : {"r":0,"g":0.929,"b":0.74},
+            "_envColorLeft" : {"r":0.885,"g":0.885,"b":0.885},
+            "_envColorRight" : {"r":0,"g":0.635,"b":0.506},
+            "_envColorLeftBoost" : {"r":0.807,"g":0.007,"b":0},
+            "_envColorRightBoost" : {"r":0.769,"g":0.656,"b":0.284},
+            "_obstacleColor" : {"r":0.764,"g":0.375,"b":1}
+          }
+        }
+      ]
+    }
+  ],
+  "_allDirectionsEnvironmentName" : "GlassDesertEnvironment"
+}
