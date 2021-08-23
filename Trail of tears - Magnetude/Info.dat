@@ -20,7 +20,7 @@
       },
       "_lastEditedBy" : "ChroMapper",
       "ChroMapper" : {
-        "version" : "0.7.0"
+        "version" : "0.7.386"
       }
     }
   },
@@ -41,7 +41,7 @@
             "_colorLeft" : {"r":0.35,"g":0.213,"b":0},
             "_envColorLeft" : {"r":1,"g":0.608,"b":0},
             "_envColorRight" : {"r":1,"g":1,"b":1},
-            "_requirements" : [
+            "_suggestions" : [
               "Chroma"
             ]
           }
@@ -53,12 +53,12 @@
           "_noteJumpMovementSpeed" : 16,
           "_noteJumpStartBeatOffset" : 0,
           "_customData" : {
+            "_suggestions" : [
+              "Chroma"
+            ],
             "_colorLeft" : {"r":1,"g":0.914,"b":0.349},
             "_colorRight" : {"r":1,"g":1,"b":1},
-            "_envColorLeft" : {"r":1,"g":0.608,"b":0},
-            "_requirements" : [
-              "Chroma"
-            ]
+            "_envColorLeft" : {"r":1,"g":0.608,"b":0}
           }
         },
         {
@@ -69,7 +69,15 @@
           "_noteJumpStartBeatOffset" : 0.1,
           "_customData" : {
             "_editorOffset" : 0,
-            "_editorOldOffset" : 0
+            "_editorOldOffset" : 0,
+            "_suggestions" : [
+              "Chroma"
+            ],
+            "_colorLeft" : {"r":0.349,"g":0.212,"b":0},
+            "_colorRight" : {"r":1,"g":0.718,"b":0.271},
+            "_envColorLeft" : {"r":1,"g":0.608,"b":0},
+            "_envColorRight" : {"r":1,"g":1,"b":1},
+            "_obstacleColor" : {"r":1,"g":0,"b":1}
           }
         }
       ]
