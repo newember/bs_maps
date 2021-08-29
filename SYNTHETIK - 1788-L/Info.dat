@@ -20,7 +20,7 @@
       },
       "_lastEditedBy" : "ChroMapper",
       "ChroMapper" : {
-        "version" : "0.7.386"
+        "version" : "0.7.400"
       }
     }
   },
@@ -36,7 +36,10 @@
           "_noteJumpStartBeatOffset" : 0,
           "_customData" : {
             "_colorLeft" : {"r":0.217,"g":0.217,"b":0.217},
-            "_colorRight" : {"r":0,"g":1,"b":0}
+            "_colorRight" : {"r":0,"g":1,"b":0},
+            "_suggestions" : [
+              "Chroma"
+            ]
           }
         }
       ]
