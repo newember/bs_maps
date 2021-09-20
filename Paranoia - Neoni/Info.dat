@@ -20,7 +20,7 @@
       },
       "_lastEditedBy" : "ChroMapper",
       "ChroMapper" : {
-        "version" : "0.7.0"
+        "version" : "0.7.400"
       }
     }
   },
@@ -32,22 +32,23 @@
           "_difficulty" : "Expert",
           "_difficultyRank" : 7,
           "_beatmapFilename" : "ExpertStandard.dat",
-          "_noteJumpMovementSpeed" : 16,
-          "_noteJumpStartBeatOffset" : 0,
+          "_noteJumpMovementSpeed" : 16.5,
+          "_noteJumpStartBeatOffset" : -0.5,
           "_customData" : {
             "_editorOffset" : 0,
             "_editorOldOffset" : 0,
             "_suggestions" : [
               "Chroma"
-            ]
+            ],
+            "_difficultyLabel" : "Tension"
           }
         },
         {
           "_difficulty" : "ExpertPlus",
           "_difficultyRank" : 9,
           "_beatmapFilename" : "ExpertPlusStandard.dat",
-          "_noteJumpMovementSpeed" : 16,
-          "_noteJumpStartBeatOffset" : 0,
+          "_noteJumpMovementSpeed" : 17,
+          "_noteJumpStartBeatOffset" : -1,
           "_customData" : {
             "_editorOffset" : 0,
             "_editorOldOffset" : 0,
@@ -60,7 +61,8 @@
             "_envColorRight" : {"r":0,"g":0.635,"b":0.506},
             "_envColorLeftBoost" : {"r":0.807,"g":0.007,"b":0},
             "_envColorRightBoost" : {"r":0.769,"g":0.656,"b":0.284},
-            "_obstacleColor" : {"r":0.764,"g":0.375,"b":1}
+            "_obstacleColor" : {"r":0.764,"g":0.375,"b":1},
+            "_difficultyLabel" : "Paranoia"
           }
         }
       ]
