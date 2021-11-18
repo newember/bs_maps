@@ -18,7 +18,7 @@
     "_editors" : {
       "_lastEditedBy" : "ChroMapper",
       "ChroMapper" : {
-        "version" : "0.8.441"
+        "version" : "0.8.451"
       }
     }
   },
@@ -30,7 +30,7 @@
           "_difficulty" : "ExpertPlus",
           "_difficultyRank" : 9,
           "_beatmapFilename" : "ExpertPlusStandard.dat",
-          "_noteJumpMovementSpeed" : 18,
+          "_noteJumpMovementSpeed" : 21,
           "_noteJumpStartBeatOffset" : -0.5,
           "_customData" : {
             "_suggestions" : [
