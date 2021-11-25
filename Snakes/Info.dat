@@ -1,0 +1,48 @@
+{
+  "_version" : "2.0.0",
+  "_songName" : "Snakes",
+  "_songSubName" : "Arcane League of legends",
+  "_songAuthorName" : "Miyavi & PVRIS",
+  "_levelAuthorName" : "Newember",
+  "_beatsPerMinute" : 158,
+  "_previewStartTime" : 38,
+  "_previewDuration" : 12,
+  "_songTimeOffset" : 0,
+  "_shuffle" : 0,
+  "_shufflePeriod" : 0.5,
+  "_coverImageFilename" : "arcane.png",
+  "_songFilename" : "Miyavi-PVRIS_Snakes.ogg",
+  "_environmentName" : "OriginsEnvironment",
+  "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
+  "_customData" : {
+    "_editors" : {
+      "_lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.8.441"
+      }
+    }
+  },
+  "_difficultyBeatmapSets" : [
+    {
+      "_beatmapCharacteristicName" : "Standard",
+      "_difficultyBeatmaps" : [
+        {
+          "_difficulty" : "ExpertPlus",
+          "_difficultyRank" : 9,
+          "_beatmapFilename" : "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed" : 16,
+          "_noteJumpStartBeatOffset" : 0,
+          "_customData" : {
+            "_suggestions" : [
+              "Chroma"
+            ],
+            "_colorLeft" : {"r":0.759,"g":0,"b":1},
+            "_colorRight" : {"r":0.244,"g":0.759,"b":0.112},
+            "_envColorRight" : {"r":0.244,"g":0.759,"b":0.556},
+            "_obstacleColor" : {"r":0,"g":0.376,"b":1}
+          }
+        }
+      ]
+    }
+  ]
+}
